@@ -1,5 +1,5 @@
 # mlp-ondevice-training
-This repository implements  **on-device training and inference of a multi-layer perceptron** neural network on an FPGA board  -- as per research done by the [USC HAL team](https://hal.usc.edu/).
+This repository implements  **on-device training and inference of a pre-defined sparse multi-layer perceptron** neural network on an FPGA board  -- as per research done by the [USC HAL team](https://hal.usc.edu/).
 
 This  **research paper**  has more details. Please consider citing it if you use or benefit from this work:  
 Sourya Dey, Diandian Chen, Zongyang Li, Souvik Kundu, Kuan-Wen Huang, Keith M. Chugg, Peter A. Beerel, "A Highly Parallel FPGA Implementation of Sparse Neural Network Training" in  _International Conference on ReConFigurable Computing and FPGAs (ReConFig)_, Cancun, Mexico, 2018, pp. 1-4.<br>
